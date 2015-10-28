@@ -1,0 +1,22 @@
+v1.
+{<<"_build/dev/lib/portal/ebin/Elixir.Portal.Door.beam">>,
+ 'Elixir.Portal.Door',<<"lib/portal/door.ex">>,
+ ['Elixir.Module','Elixir.Kernel'],
+ ['Elixir.Agent'],
+ [],nil}.
+{<<"_build/dev/lib/portal/ebin/Elixir.Portal.beam">>,'Elixir.Portal',
+ <<"lib/portal.ex">>,
+ ['Elixir.Protocol','Elixir.Supervisor.Spec','Elixir.Atom',
+  'Elixir.Kernel.Def','Elixir.Inspect','Elixir.Application','Elixir.Module',
+  'Elixir.Kernel',erlang],
+ ['Elixir.Portal.Door','Elixir.Portal.Supervisor','Elixir.Supervisor'],
+ [],nil}.
+{<<"_build/dev/lib/portal/ebin/Elixir.Inspect.Portal.beam">>,
+ 'Elixir.Inspect.Portal',<<"lib/portal.ex">>,
+ ['Elixir.Protocol','Elixir.Supervisor.Spec','Elixir.Atom',
+  'Elixir.Kernel.Typespec','Elixir.Portal','Elixir.Kernel.Def',
+  'Elixir.Inspect','Elixir.Application','Elixir.Module','Elixir.Kernel',
+  erlang],
+ ['Elixir.Portal.Door','Elixir.String','Elixir.String.Chars',
+  'Elixir.Portal.Supervisor','Elixir.Enum','Elixir.Supervisor'],
+ [],nil}.
